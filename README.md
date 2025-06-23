@@ -4,7 +4,7 @@ O Dev In The Dark é a primeira competição front-end da Dev. Community Mauá, 
 
 Na competição, os competidores disputam para implementar um design de site com base apenas em uma captura de tela. O truque é que não são permitidas prévias dos resultados durante a implementação; ou seja, os participantes só poderão visualizar o editor de código. O vencedor será decidido por votos de jurados, com base em rubricas pré-estabelecidas. Além disso, o evento contará com coffee break e premiação para os vencedores.
 
-## Competição:
+## Competição
 
 - O competidor deverá fazer login com a conta do GitHub no computador para realizar o commit ao fim.
 - Clone o repositório com o seu nome e abra no editor de código.
@@ -14,7 +14,7 @@ Na competição, os competidores disputam para implementar um design de site com
 - Ao fim, faça os comandos de add, commit e push para subir seu projeto.
 - A competição será realizada em duas baterias com um intervalo entre elas.
 
-## Regras:
+## Regras
 
 - O commit com o resultado deve ser realizado na branch dev.
 - Não são permitidos frameworks ou outras linguagens fora dos listados nas instruções. O site deve ser construído do zero durante a competição.
@@ -22,7 +22,7 @@ Na competição, os competidores disputam para implementar um design de site com
 - Prévias dos resultados são estritamente proibidas até que o tempo acabe, sob risco de desclassificação.
 - Uma vez que o cronômetro de 15 minutos se esgote, cada competidor deve levantar os braços e permanecer até segunda ordem. Caso contrário, está sujeito à desclassificação.
 
-## Datas, Local e Horário:
+## Datas, Local e Horário
 
 - **Local:** Instituto Mauá de Tecnologia, auditório alpha.
-- **Data e Horário:** 29/06/2024, 9h00
+- **Data e Horário:** 28/06/2025, 9h30
