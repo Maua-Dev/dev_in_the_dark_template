@@ -1,4 +1,4 @@
-![Dev In The Dark Banner](https://d3ebnpochj0915.cloudfront.net/dev_in_the_dark_logo.jpg)
+![image](https://github.com/user-attachments/assets/7b7e6a81-7842-4848-8c1b-1631cdeb2047)
 
 O Dev In The Dark é a primeira competição front-end da Dev. Community Mauá, inspirada no "Code in The Dark", uma competição mundialmente conhecida de HTML e CSS.
 
