@@ -9,10 +9,8 @@
 
 :root {
   /* Recomendo não alterar nada aqui dentro, só adicionar */
-  --red: #a00000;
-  --blue: #0021d1;
-  --white: #ffffff;
-  --black: #030406;
+  --white: white;
+  --black: black;
 }
 
 body {
