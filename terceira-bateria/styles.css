@@ -1,6 +1,6 @@
 * {
   /* Recomendo não alterar nada aqui dentro */
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
   border: 0;
@@ -9,7 +9,6 @@
 
 :root {
   /* Recomendo não alterar nada aqui dentro, só adicionar */
-  --green: #009c3b;
-  --yellow: #ffdf00;
-  --blue: #002776;
+  --purple: #a10aa4;
+  --blue: #021f59;
 }
